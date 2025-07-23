@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thejoshbrown
 - 👀 I’m interested in Swimming, Surfing, Reading, and Cooking
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on business projects and indie games
-- 📫 How to reach me: Email me @Joshaybrown11@gmail.com or my Insta @Notthejoshbrown5000
+- 🌱 I’m currently learning JavaScript and Python
+- 💞️ I’m looking to collaborate on software and startups
+- 📫 How to reach me: Email me @Joshaybrown11@gmail.com or my Insta @Notthejoshbrown
 
 <!---
 thejoshbrown/thejoshbrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
